@@ -7,9 +7,9 @@ body{
 }
 
 	.block1{
-	background-color: #008080;
+	background-color: #FFFFE0;
 	border:1px solid #8FBC8F;
-	height: 200px;
+	height: auto;
 	text-align: :center;
 	word-spacing: 3 px;
 
@@ -18,7 +18,7 @@ body{
 	.block2{
 	background-color: #DEB887;
 	border:1px solid #8FBC8F;
-	height: 550;
+	height: auto;
 	overflow:auto;	
     text-align: center;
 		
@@ -29,7 +29,7 @@ body{
 	height: 550px;	
 	}
 	.block5{
-	background-color: #A52A2A;
+	background-color: #00CED1;
 	border:1px solid #8FBC8F;
 	height: 200px;	
 	}
@@ -40,5 +40,21 @@ body{
 	overflow:auto;
 	text-align: center;	
 	}
+
+    .navbar-default {
+    background-color: #ffe6d1;
+    border-color: #8e44ad;
+    }
+    .navbar-default .navbar-nav > .active > a, 
+    .navbar-default .navbar-nav > .active > a:hover, 
+    .navbar-default .navbar-nav > .active > a:focus {
+    color: #d1ffed;
+    background-color: #8e44ad;
+}
+.breadcrumbs > li + li:before {
+color: #cccccc;
+content: "/";
+padding: 0 5px;
+}
 
 
