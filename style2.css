@@ -1,0 +1,43 @@
+body{
+
+	background-image:url('C:/Users/Vlad/Desktop/Site/mosaic.jpg');
+	background-repeat: repeat-y;
+	padding-left:15px;
+	padding-right:15px;
+}
+.block1
+{
+	background-color: #FFFFE0;
+	border:1px solid #8FBC8F;
+	height: 250px;
+	text-align: :center;
+	word-spacing: 3 px;
+
+}
+.block2
+{
+	background-color: #FFFFE0;
+	border:1px solid #8FBC8F;
+	height: 250px;
+	text-align: :center;
+	word-spacing: 3 px;
+
+}
+.block3
+{
+	background-color: #FFFFE0;
+	border:1px solid #8FBC8F;
+	height: 250px;
+	text-align: :center;
+	word-spacing: 3 px;
+
+}
+.block4
+{
+	background-color: #FFFFE0;
+	border:1px solid #8FBC8F;
+	height: 250px;
+	text-align: :center;
+	word-spacing: 3 px;
+
+}
